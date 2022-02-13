@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 📫 How to reach me: pilsungdev@gmail.com
+- 📫 Email: pilsungdev@gmail.com
 
 <!--
 **pilsungdev/pilsungdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
